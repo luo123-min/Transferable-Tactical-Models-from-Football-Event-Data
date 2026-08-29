@@ -1,0 +1,109 @@
+{
+  "n_teams": 32,
+  "n_features": 12,
+  "best_k": 5,
+  "silhouette": 0.16837555786174735,
+  "prototype_labels": {
+    "0": "direct-counter",
+    "1": "direct-counter-high-connectivity",
+    "2": "balanced",
+    "3": "high-connectivity",
+    "4": "modular"
+  },
+  "clusters": {
+    "0": [
+      "Nigeria",
+      "Serbia",
+      "Panama",
+      "Tunisia",
+      "Sweden",
+      "Senegal",
+      "Colombia",
+      "Morocco"
+    ],
+    "1": [
+      "Russia",
+      "Iceland",
+      "Peru",
+      "Costa Rica",
+      "South Korea",
+      "Egypt",
+      "Iran"
+    ],
+    "2": [
+      "Saudi Arabia",
+      "Australia",
+      "Argentina",
+      "Denmark",
+      "Switzerland",
+      "Mexico",
+      "Germany",
+      "Poland",
+      "Portugal",
+      "Spain",
+      "Uruguay"
+    ],
+    "3": [
+      "Croatia",
+      "France",
+      "Brazil",
+      "Japan"
+    ],
+    "4": [
+      "Belgium",
+      "England"
+    ]
+  },
+  "top_features": [
+    {
+      "feature": "mean_close",
+      "importance": 0.07199318489809733
+    },
+    {
+      "feature": "mean_in_deg",
+      "importance": 0.06693619759451508
+    },
+    {
+      "feature": "mean_out_deg",
+      "importance": 0.058595847447322144
+    },
+    {
+      "feature": "mean_deg_cent",
+      "importance": 0.05654164837746409
+    },
+    {
+      "feature": "n_passes_completed",
+      "importance": 0.05286472731757698
+    },
+    {
+      "feature": "forward_ratio",
+      "importance": 0.050462386925489044
+    },
+    {
+      "feature": "pass_attempts",
+      "importance": 0.049149745283837386
+    },
+    {
+      "feature": "max_deg_cent",
+      "importance": 0.046484869517360236
+    },
+    {
+      "feature": "max_close",
+      "importance": 0.04467688712888815
+    },
+    {
+      "feature": "density_dir",
+      "importance": 0.044568881581655326
+    },
+    {
+      "feature": "mean_eigen",
+      "importance": 0.04278059618601447
+    },
+    {
+      "feature": "global_clustering",
+      "importance": 0.04258518378987807
+    }
+  ],
+  "downstream_cv_acc": 0.43589743589743596,
+  "downstream_n": 64
+}

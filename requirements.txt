@@ -1,0 +1,17 @@
+# Core data / ML stack
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+networkx
+
+# Deep learning (Graph Convolutional Network)
+torch>=1.13
+
+# Notes:
+# - Standard-library modules used (no extra install): json, os, argparse,
+#   urllib.request, zipfile, multiprocessing, itertools, collections, math,
+#   warnings, concurrent.futures.
+# - PyTorch CUDA is optional; the pipelines run on CPU. For GPU, install the
+#   CUDA-matched torch wheel from https://pytorch.org.

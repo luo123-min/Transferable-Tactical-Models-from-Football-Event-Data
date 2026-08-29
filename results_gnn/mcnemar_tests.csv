@@ -1,0 +1,4 @@
+vs,mcnemar_p
+Node mean-pool + style + LR (no graph),0.5570709871103278
+Node-MLP + pool + style (no message passing),0.6337556480191592
+Majority-class prior (train),2.569257353109725e-16

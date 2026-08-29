@@ -1,0 +1,81 @@
+competition_id,season_id,competition_name,season_name,country_name,competition_gender,n_matches
+9,281,1. Bundesliga,2023/2024,Germany,male,34
+9,27,1. Bundesliga,2015/2016,Germany,male,34
+1267,107,African Cup of Nations,2023,Africa,male,52
+16,4,Champions League,2018/2019,Europe,male,1
+16,1,Champions League,2017/2018,Europe,male,1
+16,2,Champions League,2016/2017,Europe,male,1
+16,27,Champions League,2015/2016,Europe,male,1
+16,26,Champions League,2014/2015,Europe,male,1
+16,25,Champions League,2013/2014,Europe,male,1
+16,24,Champions League,2012/2013,Europe,male,1
+16,23,Champions League,2011/2012,Europe,male,1
+16,22,Champions League,2010/2011,Europe,male,1
+16,21,Champions League,2009/2010,Europe,male,1
+16,41,Champions League,2008/2009,Europe,male,1
+16,39,Champions League,2006/2007,Europe,male,1
+16,37,Champions League,2004/2005,Europe,male,1
+16,44,Champions League,2003/2004,Europe,male,1
+16,76,Champions League,1999/2000,Europe,male,1
+16,277,Champions League,1972/1973,Europe,male,1
+16,71,Champions League,1971/1972,Europe,male,1
+16,276,Champions League,1970/1971,Europe,male,1
+223,282,Copa America,2024,South America,male,32
+87,84,Copa del Rey,1983/1984,Spain,male,1
+87,268,Copa del Rey,1982/1983,Spain,male,1
+87,279,Copa del Rey,1977/1978,Spain,male,1
+37,281,FA Women's Super League,2023/2024,England,female,132
+37,90,FA Women's Super League,2020/2021,England,female,131
+37,42,FA Women's Super League,2019/2020,England,female,87
+37,4,FA Women's Super League,2018/2019,England,female,107
+1470,274,FIFA U20 World Cup,1979,International,male,1
+43,106,FIFA World Cup,2022,International,male,64
+43,3,FIFA World Cup,2018,International,male,64
+43,55,FIFA World Cup,1990,International,male,1
+43,54,FIFA World Cup,1986,International,male,3
+43,51,FIFA World Cup,1974,International,male,6
+43,272,FIFA World Cup,1970,International,male,6
+43,270,FIFA World Cup,1962,International,male,1
+43,269,FIFA World Cup,1958,International,male,2
+135,281,Frauen Bundesliga,2023/2024,Germany,female,132
+1238,108,Indian Super league,2021/2022,India,male,115
+11,90,La Liga,2020/2021,Spain,male,35
+11,42,La Liga,2019/2020,Spain,male,33
+11,4,La Liga,2018/2019,Spain,male,34
+11,1,La Liga,2017/2018,Spain,male,36
+11,2,La Liga,2016/2017,Spain,male,34
+11,27,La Liga,2015/2016,Spain,male,380
+11,26,La Liga,2014/2015,Spain,male,38
+11,25,La Liga,2013/2014,Spain,male,31
+11,24,La Liga,2012/2013,Spain,male,32
+11,23,La Liga,2011/2012,Spain,male,37
+11,22,La Liga,2010/2011,Spain,male,33
+11,21,La Liga,2009/2010,Spain,male,35
+11,41,La Liga,2008/2009,Spain,male,31
+11,40,La Liga,2007/2008,Spain,male,27
+11,39,La Liga,2006/2007,Spain,male,26
+11,38,La Liga,2005/2006,Spain,male,17
+11,37,La Liga,2004/2005,Spain,male,7
+11,278,La Liga,1973/1974,Spain,male,1
+182,281,Liga F,2023/2024,Spain,female,240
+81,48,Liga Profesional,1997/1998,Argentina,male,1
+81,275,Liga Profesional,1981,Argentina,male,1
+7,235,Ligue 1,2022/2023,France,male,32
+7,108,Ligue 1,2021/2022,France,male,26
+7,27,Ligue 1,2015/2016,France,male,377
+44,107,Major League Soccer,2023,United States of America,male,6
+116,68,North American League,1977,North and Central America,male,1
+49,107,NWSL,2023,United States of America,female,137
+49,3,NWSL,2018,United States of America,female,36
+2,27,Premier League,2015/2016,England,male,380
+2,44,Premier League,2003/2004,England,male,38
+12,27,Serie A,2015/2016,Italy,male,380
+12,86,Serie A,1986/1987,Italy,male,1
+131,281,Serie A Women,2023/2024,Italy,female,130
+55,282,UEFA Euro,2024,Europe,male,51
+55,43,UEFA Euro,2020,Europe,male,51
+35,75,UEFA Europa League,1988/1989,Europe,male,3
+53,315,UEFA Women's Euro,2025,Europe,female,31
+53,106,UEFA Women's Euro,2022,Europe,female,31
+72,107,Women's World Cup,2023,International,female,64
+72,30,Women's World Cup,2019,International,female,52

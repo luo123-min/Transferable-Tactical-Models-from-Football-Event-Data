@@ -1,0 +1,6 @@
+vs,mcnemar_p
+Random GCN + style (untrained),0.30875256919282823
+Style descriptors + LR,0.933624953548803
+Node mean-pool + style + LR (no graph),0.5570709871103278
+MLP (flat raw node feats),0.09825786115449811
+Trained GCN (raw graph only),1.0722600359493142e-15

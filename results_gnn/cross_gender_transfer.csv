@@ -1,0 +1,3 @@
+model,accuracy,macro_f1,n
+Cross-gender transfer (male model -> female graphs),0.5549618320610687,0.49815947634238555,2620
+Male test (reference),0.5402010050251256,0.5025355603766495,796
