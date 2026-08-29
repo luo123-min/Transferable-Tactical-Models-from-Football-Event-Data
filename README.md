@@ -158,6 +158,7 @@ Outputs (small CSV/JSON summaries) land in `results/`, `results_full/`,
 ---
 
 ## Citation
-
+ <!-- 
 If you use this codebase or the findings, please cite the paper
 (accompanying DOI / BibTeX to be added on publication).
+-->
