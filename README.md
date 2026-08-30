@@ -6,8 +6,8 @@
 
 This repository contains the full, reproducible codebase for the paper
 *"Transferable Tactical Models from Football Event
-Data: GCN-Based Outcome Prediction and Freeze-Frame Complementarity"* (target:
-*Discover Artificial Intelligence*, Special Issue "AI-Driven Sports Science").
+Data: GCN-Based Outcome Prediction and Freeze-Frame Complementarity"*  <!-- (target:
+*Discover Artificial Intelligence*, Special Issue "AI-Driven Sports Science").-->
 
 The project contributes three things:
 
