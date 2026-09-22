@@ -87,7 +87,7 @@ pip install -r requirements.txt
 
 ---
 
-## Data (do not commit)
+## Data
 
 The raw inputs are **StatsBomb Open Data**, released under a **non-commercial**
 licence. They are intentionally **not** included in this repository.
